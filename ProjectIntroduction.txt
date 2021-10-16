@@ -1,1 +1,13 @@
+							PROJECT INTRODUCTION
 This project is going to unite all those players who love to play cricket and miss playing that as they are far away from their home countries.
+
+
+							PROJECT FUNCTIONS
+1.   	Takes availability of people to play cricket.
+2.   	Combines the availabilities of people and group them.
+3.   	Random selection of playground.
+4.   	Collection of funds for the equipment. 
+	(Totally upto players how much they want to contribute)
+5.   	Inform players about the schedule.
+6.   	Scoring.
+7.   	Special appreciation to those who perform well.
